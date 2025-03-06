@@ -53,7 +53,7 @@ python3 start.py
 - `dfile`: Descarga un archivo en el PC de la victima.
 - `cd`: Muevete por las carpetas del PC de la victima 
 - `windowspass`: Genera una ventana realista para la victima para que esta ingrese las credenciales de su sesión (Esto para obtener la contraseña y usuario ADMINISTRADOR)
-- vwhoami`: Obtén información sobre el PC en el que se ejecutó el archivo. 
+- `vwhoami`: Obtén información sobre el PC en el que se ejecutó el archivo. 
  </table>
   </details>
 
