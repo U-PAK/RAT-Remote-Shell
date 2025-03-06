@@ -42,6 +42,20 @@ python3 start.py
 
 <br><br>
 **Seguido esto deberás seguír los pasos que el archivo te pide.**<br>
+<details>
+<summary>Comandos:<br></summary>
+
+- `cmd`: Ejecuta un comando en la consola de la victima. 
+- `batinjector`: Inyecta code Batch en la PC de la victima.
+- `vbsinjector`: Inyecta code VBS en la PC de la victima.
+- `screenshot`: Obtén una captura de pantalla del PC de la victima.
+- `ufile`: Sube un archivo de la victima
+- `dfile`: Descarga un archivo en el PC de la victima.
+- `cd`: Muevete por las carpetas del PC de la victima 
+- `windowspass`: Genera una ventana realista para la victima para que esta ingrese las credenciales de su sesión (Esto para obtener la contraseña y usuario ADMINISTRADOR)
+- vwhoami`: Obtén información sobre el PC en el que se ejecutó el archivo. 
+ </table>
+  </details>
 
 **Comenzará la compilación y se crearán varías carpetas, cuando termine este proceso el archivo .exe creado estará en la carpeta `"dist"`**<br>
 
